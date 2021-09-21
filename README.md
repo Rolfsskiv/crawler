@@ -4,4 +4,4 @@
 
 ### Startup
     make run
-call http://localhost:8080/sites?search=cup when cup other word
+call http://localhost:8080/sites?search=cup where cup any word
